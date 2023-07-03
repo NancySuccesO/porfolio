@@ -75,7 +75,7 @@
     transition: all 0.3s ease-in-out; 
 }
 
-@media(max-width:750px){
+@media(max-width:550px){
     .toggle-button{
         display: flex;
     }
