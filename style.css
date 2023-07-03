@@ -140,9 +140,9 @@
 @media(max-width:450px){
     .section h1{
         background-color: #1b18e9;
-        font-size: 14px; size:5px; line-height: 2px; margin-top: 5px; letter-spacing: 1px; color: #FC4F00;
-    } 
-    h3{ font-size: 8px; size:3px; line-height: 1px; margin-top: 5px; letter-spacing: 1px; color: chartreuse;
+        font-size: 14px; size:5px; line-height: 2px; margin-top: 5px; letter-spacing: 1px; 
+     } 
+    h3{ font-size: 8px; size:3px; line-height: 1px; margin-top: 5px; letter-spacing: 1px; 
 
     }   
     .image img{
